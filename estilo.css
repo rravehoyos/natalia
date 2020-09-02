@@ -1,0 +1,176 @@
+.m{
+	position: absolute;
+	height: 10px;
+	left: 600px;
+	top: -10px;
+	width: 30px;
+	background-color: #30ADE3;
+}
+body{
+	padding: 0px;
+	margin: 0px;
+}
+.b{
+	position: relative;
+	left: 100%;
+	height: 30px;
+	width: 10%;
+	background-color: #899297;
+}
+li{
+	position: absolute;
+    top: 60px;
+    left: 30px;
+    display: none;
+    list-style-type: none;
+    text-decoration: none;
+    font-family: Times New Roman, Times, serif;
+    font-size: 250%;
+    color: #030303;
+
+}
+.b:hover li{
+	display: block;
+}
+.me{
+	position: absolute;
+	height: 10px;
+	top: 60px;
+	left: 200px;
+	width: 30px;
+	background-color: #30ADE3;
+}
+body{
+	padding: 0px;
+	margin: 0px;
+}
+.bo{
+	position: relative;
+	left: 100%;
+
+	height: 30px;
+	width: 10%;
+	background-color: #899297;
+}
+li{
+	position: absolute;
+    top: 60px;
+    left: 30px;
+    display: none;
+    list-style-type: none;
+    text-decoration: none;
+    font-family: Times New Roman, Times, serif;
+    font-size: 150%;
+    color: #030303;
+
+}
+.bo:hover li{
+	display: block;
+}
+.men{
+	position: absolute;
+	height: 10px;
+	left: 900px;
+	top: -10;
+	width: 30px;
+	background-color: #30ADE3;
+	
+}
+body{
+	padding: 0px;
+	margin: 0px;
+}
+.bot{
+	position: relative;
+	left: 100%;
+
+	height: 30px;
+	width: 10%;
+	background-color: #899297;
+}
+li{
+	position: absolute;
+    top: 60px;
+    left: 30px;
+    display: none;
+    list-style-type: none;
+    text-decoration: none;
+    font-family: Times New Roman, Times, serif;
+    font-size: 150%;
+    color: #030303;
+
+}
+.bot:hover li{
+	display: block;
+}
+
+.menu{
+	position: absolute;
+	height: 10px;
+	top: 100px;
+	width: 30px;
+	background-color: #30ADE3;
+}
+body{
+	padding: 0px;
+	margin: 0px;
+}
+.boto{
+	position: relative;
+	left: 100%;
+
+	height: 30px;
+	width: 10%;
+	background-color: #899297;
+}
+li{
+	position: absolute;
+    top: 600px;
+    left: 40px;
+    display: none;
+    list-style-type: none;
+    text-decoration: none;
+    font-family: Times New Roman, Times, serif;
+    font-size: 150%;
+    color: #030303;
+
+}
+.boto:hover li{
+	display: block;
+}
+.menus{
+	position: absolute;
+	height: 10px;
+	top: -10px;
+	width: 30px;
+	background-color: #30ADE3;
+}
+body{
+	padding: 0px;
+	margin: 0px;
+}
+.boton{
+	position: relative;
+	left: 100%;
+
+	height: 30px;
+	width: 10%;
+	background-color: #899297;
+}
+li{
+	position: absolute;
+    top: 60px;
+    left: 30px;
+    display: none;
+    list-style-type: none;
+    text-decoration: none;
+    font-family: Times New Roman, Times, serif;
+    font-size: 150%;
+    color: #030303;
+
+}
+.boton:hover li{
+	display: block;
+}
+
+	
